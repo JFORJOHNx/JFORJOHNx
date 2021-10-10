@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @JFORJOHNx
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning coding 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Discord JFORJOHNx#0768
+- 🌱 I’m currently learning Java 
+- 💞️ I’m looking to collaborate on 
+- 📫 You can reach me on Discord JFORJOHNx#0768
 
 <!---
 JFORJOHNx/JFORJOHNx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
